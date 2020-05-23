@@ -1,0 +1,12 @@
+Version 1.0:
+
+Version 2.0:
+- caps added
+- copper pour added
+- board size reduced
+
+
+Git practice:
+
+- Use branching instead of making multiple copies and stashing.
+- Also make shorter commits, increase frequency of commits
